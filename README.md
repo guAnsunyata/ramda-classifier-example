@@ -5,6 +5,18 @@ It's code after refactoring from refactoring tutorial from a book [Refactoring J
 
 This repo refactor the original code into a functional programming style version by adopting Ramda.
 
+- original code
+
+https://github.com/MingJen/ChordTrain/blob/main/TypeScript/main.ts
+
+- code after refactoring 
+
+https://github.com/guAnsunyata/ramda-classifier-example/blob/main/src/script/classifier.ts
+
+https://github.com/guAnsunyata/ramda-classifier-example/blob/main/src/script/records-of.ts
+
+https://github.com/guAnsunyata/ramda-classifier-example/blob/main/src/main.ts
+
 ## Read the Source Code
 
 Naive Bayes classifier
